@@ -1,4 +1,4 @@
-# Code Book
+# Code Book-- Getting and Cleaning Data Course Project
 
 This codebook describes the variables and data used in this project, as well as how the `run_analysis.R` script transforms the data to produce the `tidy_data.txt` output file.
 
@@ -112,17 +112,17 @@ Entries in the `code` column of `Data_selected` are replaced with corresponding 
 
 These labels are:
 
-* WALKING
+* `WALKING`
 
-* WALKING_UPSTAIRS
+* `WALKING_UPSTAIRS`
 
-* WALKING_DOWNSTAIRS
+* `WALKING_DOWNSTAIRS`
 
-* SITTING
+* `SITTING`
 
-* STANDING
+* `STANDING`
 
-* LAYING
+* `LAYING`
 
 ### Changing the activty labels to appropriately descriptive variable names
 
