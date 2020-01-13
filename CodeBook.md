@@ -1,11 +1,4 @@
----
-title: "CodeBook"
-output: html_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+# Code Book
 
 This codebook describes the variables and data used in this project, as well as how the `run_analysis.R` script transforms the data to produce the `tidy_data.txt` output file.
 
